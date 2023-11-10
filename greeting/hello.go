@@ -1,7 +1,7 @@
 package greeting
 
-var greeting string = "Golang for Brave!"
+var greeting string = "FullStack for Brave!"
 
 func Hello() string {
-    return greeting
+	return greeting
 }
